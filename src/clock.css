@@ -1,0 +1,11 @@
+.Time {
+    height: 500px;
+    width: 800px;
+    margin: auto;
+    position: center;
+    top: 0; left: 0; bottom: 0; right: 0;
+    padding-top: 100px;
+    font-family: courier, monospace;
+    color: rgb(0, 0, 0);
+    font-size: 200px;
+    }
